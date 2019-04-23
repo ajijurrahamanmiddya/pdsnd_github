@@ -19,4 +19,3 @@ The following urls I referred
 https://udacity.github.io/git-styleguide/
 
 https://www.boldgrid.com/support/advanced-tutorials/commit-a-file-change-on-github/
-
