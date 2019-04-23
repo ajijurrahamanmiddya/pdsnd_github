@@ -450,3 +450,4 @@ def stats():
 
 if __name__ == '__main__':
     stats()
+#refactoring your code
