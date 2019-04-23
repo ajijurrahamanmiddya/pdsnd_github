@@ -1,15 +1,25 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on 22nd of April, 2019
 
 ### Project Title
-Replace the Project Title
+Version control
 
 ### Description
-Describe what your project is about and what it does
+
+My first project on version control in git HUB and its keep the track record for a particular project information. 
 
 ### Files used
-Include the files used
+The following data files used for bikeshare project
+1. chicago
+2. new_york_city
+3. washington 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The following urls I referred 
+
+https://udacity.github.io/git-styleguide/
+
+https://www.boldgrid.com/support/advanced-tutorials/commit-a-file-change-on-github/
+
+
 
