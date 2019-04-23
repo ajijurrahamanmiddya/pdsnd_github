@@ -5,7 +5,7 @@ This project was created on 22nd of April, 2019
 Version Control
 
 ### Description
-My first project on version control in git HUB and its keep the track record for a particular project information. 
+My first project on version control in git HUB and its keep the track record for a particular project information
 
 ### Files used
 The following data files used for bikeshare project
