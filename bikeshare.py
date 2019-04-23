@@ -16,7 +16,7 @@ def get_city():
     Args:
         none.
     Returns:
-        (str) Filename for a city's bikeshare data.
+        (str) Filename for a city's bikeshare data
     '''
     city = input('\nHello! Let\'s explore some US bikeshare data!\n'
                  '\nWould you like to see data for Chicago (CH), New York (NY), or Washington (WA)?\n')
