@@ -2,7 +2,7 @@
 This project was created on 22nd of April, 2019
 
 ### Project Title
-Version control
+Version Control
 
 ### Description
 
